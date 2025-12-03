@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - pages # test
 
   workflow_dispatch:
 
